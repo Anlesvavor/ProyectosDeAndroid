@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculoDePendiente</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="x1">x1</string>
+    <string name="x2">x2</string>
+    <string name="y1">y1</string>
+    <string name="y2">y2</string>
+    <string name="calcular">Calcular</string>
+</resources>

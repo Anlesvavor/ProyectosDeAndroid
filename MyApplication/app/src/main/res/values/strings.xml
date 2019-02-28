@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="nombre">Nombre:</string>
+    <string name="ciudad">Ciudad:</string>
+    <string name="estatura">Estatura:</string>
+    <string name="saludar">Saluduar</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="moneda_nacional">Moneda Nacional</string>
+    <string name="tipo_cambio">Tipo de cambio</string>
+    <string name="dolares">Dólares</string>
+    <string name="convertir">Convertir</string>
+</resources>

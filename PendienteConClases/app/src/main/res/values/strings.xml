@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PendienteConClases</string>
+    <string name="lblX1">X1</string>
+    <string name="lblX2">X2</string>
+    <string name="lblY1">Y1</string>
+    <string name="lblY2">Y2</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="lblResultado">Resultado</string>
+</resources>
